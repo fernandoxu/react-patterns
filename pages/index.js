@@ -25,6 +25,9 @@ export default function Home() {
           <li>
             <Link href='/prop-getters'>prop-getters</Link>
           </li>
+          <li>
+            <Link href='/state-reducer'>state-reducer</Link>
+          </li>
         </ul>
       </main>
 
