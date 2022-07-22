@@ -77,8 +77,8 @@ const Toggle = ({ on: controlledOn, onChange }) => {
 };
 
 const ControlProps = () => {
-  const [bothOn, setBothOn] = React.useState(false);
-  const [timesClicked, setTimesClicked] = React.useState(0);
+  const [bothOn, setBothOn] = useState(false);
+  const [timesClicked, setTimesClicked] = useState(0);
 
   function handleToggleChange(state, action) {
     if (action.type === actionTypes.toggle && timesClicked > 4) {

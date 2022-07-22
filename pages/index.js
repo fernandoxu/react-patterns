@@ -28,6 +28,9 @@ export default function Home() {
           <li>
             <Link href='/state-reducer'>state-reducer</Link>
           </li>
+          <li>
+            <Link href='/control-props'>control-props</Link>
+          </li>
         </ul>
       </main>
 
