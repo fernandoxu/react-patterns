@@ -4,8 +4,6 @@
 
 ## 很好的资源
 
-<!-- add link -->
-
 - [🤯 Advanced React Patterns 🚀 EpicReact.Dev](https://github.com/kentcdodds/advanced-react-patterns)
 
 - [The Complete Guide to Advanced React Component Patterns](https://www.udemy.com/course/the-complete-guide-to-advanced-react-patterns/)
